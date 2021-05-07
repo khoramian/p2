@@ -2,7 +2,7 @@ from pyupdater.client import Client
 from client_config import ClientConfig
 
 APP_NAME = 'p2'
-APP_VERSION = '1.1.0'
+APP_VERSION = '1.1.1'
 
 ASSET_NAME = 'ffmpeg'
 ASSET_VERSION = '2.3.2'
